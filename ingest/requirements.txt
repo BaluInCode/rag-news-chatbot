@@ -1,0 +1,24 @@
+# --- Embeddings ---
+jina-hub              # Jina embeddings / models
+sentence-transformers # Open-source embedding models alternative
+
+# --- Vector Databases ---
+qdrant-client         # Qdrant vector DB client
+chromadb              # Chroma vector DB client
+faiss-cpu             # FAISS CPU version for local vector search
+
+# --- LLM API ---
+google-generativeai   # Google Gemini API client
+
+# --- Scraping / News Feeds ---
+requests
+beautifulsoup4
+feedparser
+
+# --- Data Processing ---
+pandas
+numpy
+
+# --- Optional Local Testing Server ---
+Flask
+python-dotenv
